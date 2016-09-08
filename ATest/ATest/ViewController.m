@@ -102,6 +102,7 @@
     self.navigationController.navigationBar.barTintColor = [UIColor orangeColor];
     self.edgesForExtendedLayout = UIRectEdgeNone;
     self.view.backgroundColor = [UIColor yellowColor];
+//    试试看行不行
 }
 
 - (void)setUpViews{
