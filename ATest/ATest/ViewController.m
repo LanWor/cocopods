@@ -101,7 +101,7 @@
     self.navigationController.navigationBar.titleTextAttributes = dic;
     self.navigationController.navigationBar.barTintColor = [UIColor orangeColor];
     self.edgesForExtendedLayout = UIRectEdgeNone;
-    self.view.backgroundColor = [UIColor grayColor];
+    self.view.backgroundColor = [UIColor yellowColor];
 }
 
 - (void)setUpViews{
